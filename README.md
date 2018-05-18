@@ -1,4 +1,15 @@
+
 # LFU Cache implementation
+Here is a user friendly and easily understandable implementation of Least-Frequently-Used cache in python. It is based upon an amazing paper I got to read from a web-club. So here is my implementation of it ..
+
+
+
+
+
+
+The other information about contributions can be found below :
+
+# NIT-K fork info :
 
 Greetings from Web Club at NITK! :) We are looking to implement a cache described in the paper titled [An O(1) algorithm for implementing the LFU cache eviction scheme](http://dhruvbird.com/lfu.pdf). The aim is to provide the user with a user-friendly, well-documented library for use in their own programs.
 
